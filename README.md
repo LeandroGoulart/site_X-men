@@ -2,7 +2,9 @@
 
 O Site X-Men é uma simulação de tela de escolha de personagem dos X-Men, com descrições detalhadas sobre cada um deles.
 
-[Prévia](src/images/site-modelo.jpg)
+![Prévia](src/images/site-modelo.jpg)
+![image](https://github.com/LeandroGoulart/site_X-men/assets/82618246/bc70c432-aae8-4e97-a0cf-97a537337aac)
+
 
 
 
