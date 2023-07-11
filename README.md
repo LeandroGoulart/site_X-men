@@ -8,7 +8,7 @@ O Site X-Men é uma simulação de tela de escolha de personagem dos X-Men, com 
 
 ## Acesso ao Site
 
-Acesse o site do X-Men pelo link: [Site X-Men](https://exemplo.com)
+Acesse o site do X-Men pelo link: [Site X-Men]([https://exemplo.com](https://leandrogoulart.github.io/site_X-men/))
 
 ## Descrição do Projeto
 
