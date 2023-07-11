@@ -65,7 +65,7 @@ body::before{
 }
 
 .selecao-de-personagens .personagem.selecionado{
-    border-shadow: 0px 0px 24px 5px #0271f7;
+    box-shadow: 0px 0px 24px 5px #0271f7;
 }
 
 .personagem-selecionado{
